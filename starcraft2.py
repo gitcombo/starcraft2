@@ -14,7 +14,7 @@ error_message = {
 
 @app.route('/')
 def _get_welcome_screen():    
-    return "<h1>Welcome, <b>WASA</b> players.</h1>"
+    return "<h1>Welcome, <b>WASA v2.0</b> players.</h1>"
 
 
 @app.route('/api/wasa/whatsapp')
