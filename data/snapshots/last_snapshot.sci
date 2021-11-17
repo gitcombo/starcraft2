@@ -6,15 +6,7 @@
             "region_id": 1,
             "realm_id": 2,
             "profile_id": 94131,
-            "mmr": 3424
-        },
-        {
-            "name": "miAmor",
-            "region": "us",
-            "region_id": 1,
-            "realm_id": 1,
-            "profile_id": 3705282,
-            "mmr": 3394
+            "mmr": 3379
         },
         {
             "name": "XIIITijax",
@@ -22,7 +14,15 @@
             "region_id": 1,
             "realm_id": 1,
             "profile_id": 5429813,
-            "mmr": 3296
+            "mmr": 3304
+        },
+        {
+            "name": "miAmor",
+            "region": "us",
+            "region_id": 1,
+            "realm_id": 1,
+            "profile_id": 3705282,
+            "mmr": 3264
         },
         {
             "name": "KingGuacamol",
@@ -30,7 +30,7 @@
             "region_id": 1,
             "realm_id": 2,
             "profile_id": 1211223,
-            "mmr": 3178
+            "mmr": 3200
         },
         {
             "name": "TerranGT",
@@ -38,7 +38,7 @@
             "region_id": 1,
             "realm_id": 1,
             "profile_id": 7690108,
-            "mmr": 2832
+            "mmr": 2898
         },
         {
             "name": "RcoronaVirus",
@@ -46,7 +46,7 @@
             "region_id": 1,
             "realm_id": 1,
             "profile_id": 6322849,
-            "mmr": 2743
+            "mmr": 2754
         },
         {
             "name": "METALgear",
@@ -57,5 +57,5 @@
             "mmr": 0
         }
     ],
-    "last_checkpoint": "2021-08-28 23:00:36"
+    "last_checkpoint": "2021-11-17 05:01:45"
 }

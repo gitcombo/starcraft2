@@ -1,5 +1,5 @@
 {
-    "last_checkpoint": "2021-11-17",
+    "last_checkpoint": "2021-11-16",
     "2021-08-22": {
         "MaxGio": {
             "mmr": 3404
@@ -1625,29 +1625,6 @@
         },
         "TerranGT": {
             "mmr": 2919
-        },
-        "RcoronaVirus": {
-            "mmr": 2754
-        },
-        "METALgear": {
-            "mmr": 0
-        }
-    },
-    "2021-11-17": {
-        "MaxGio": {
-            "mmr": 3379
-        },
-        "XIIITijax": {
-            "mmr": 3304
-        },
-        "miAmor": {
-            "mmr": 3264
-        },
-        "KingGuacamol": {
-            "mmr": 3200
-        },
-        "TerranGT": {
-            "mmr": 2898
         },
         "RcoronaVirus": {
             "mmr": 2754

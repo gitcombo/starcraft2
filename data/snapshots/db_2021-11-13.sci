@@ -1,5 +1,5 @@
 {
-    "last_checkpoint": "2021-11-17",
+    "last_checkpoint": "2021-11-13",
     "2021-08-22": {
         "MaxGio": {
             "mmr": 3404
@@ -1559,98 +1559,6 @@
         },
         "TerranGT": {
             "mmr": 0
-        },
-        "METALgear": {
-            "mmr": 0
-        }
-    },
-    "2021-11-14": {
-        "MaxGio": {
-            "mmr": 3400
-        },
-        "XIIITijax": {
-            "mmr": 3304
-        },
-        "miAmor": {
-            "mmr": 3224
-        },
-        "KingGuacamol": {
-            "mmr": 3193
-        },
-        "TerranGT": {
-            "mmr": 2897
-        },
-        "RcoronaVirus": {
-            "mmr": 2754
-        },
-        "METALgear": {
-            "mmr": 0
-        }
-    },
-    "2021-11-15": {
-        "MaxGio": {
-            "mmr": 3400
-        },
-        "XIIITijax": {
-            "mmr": 3281
-        },
-        "miAmor": {
-            "mmr": 3224
-        },
-        "KingGuacamol": {
-            "mmr": 3193
-        },
-        "TerranGT": {
-            "mmr": 2876
-        },
-        "RcoronaVirus": {
-            "mmr": 2754
-        },
-        "METALgear": {
-            "mmr": 0
-        }
-    },
-    "2021-11-16": {
-        "MaxGio": {
-            "mmr": 3379
-        },
-        "XIIITijax": {
-            "mmr": 3304
-        },
-        "miAmor": {
-            "mmr": 3264
-        },
-        "KingGuacamol": {
-            "mmr": 3213
-        },
-        "TerranGT": {
-            "mmr": 2919
-        },
-        "RcoronaVirus": {
-            "mmr": 2754
-        },
-        "METALgear": {
-            "mmr": 0
-        }
-    },
-    "2021-11-17": {
-        "MaxGio": {
-            "mmr": 3379
-        },
-        "XIIITijax": {
-            "mmr": 3304
-        },
-        "miAmor": {
-            "mmr": 3264
-        },
-        "KingGuacamol": {
-            "mmr": 3200
-        },
-        "TerranGT": {
-            "mmr": 2898
-        },
-        "RcoronaVirus": {
-            "mmr": 2754
         },
         "METALgear": {
             "mmr": 0
