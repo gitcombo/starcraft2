@@ -39,12 +39,16 @@ def header_whatsapp():
 
 def body_whatsapp(player_list):
     i = 0    
-    body = ""        
-    for player in json.loads(player_list)['players']:
-        i += 1        
-        body = body + "{:0>2d}. {} *{:0>4d}* mmr ({}{})"\
+    body = ""
+    players = json.loads(player_list)['players']
+    top_mmr = players[0]['mmr']
+    for player in players:
+        i += 1
+        delta_mmr = top_mmr - player['mmr']
+        body = body + "{:0>2d}. {} *{:0>4d}* mmr ({}{:0>4d})"\
             .format(i, player['name'][0:6], player['mmr'], \
-                get_sign(get_delta_mmr(player)), abs(get_delta_mmr(player))) + "\n"        
+                get_sign(delta_mmr), abs(delta_mmr)) + "\n"        
+        top_mmr = player['mmr']
     return body
 
 
