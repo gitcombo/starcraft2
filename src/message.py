@@ -45,7 +45,7 @@ def body_whatsapp(player_list):
     for player in players:
         i += 1
         delta_mmr = player['mmr'] - top_mmr
-        body = body + "{:0>2d}. {} *{:0>4d}* mmr ({}{:0>4d})"\
+        body = body + "{:0>2d}. {} *{:0>4d}* mmr ({}{})"\
             .format(i, player['name'][0:6], player['mmr'], \
                 get_sign(delta_mmr), abs(delta_mmr)) + "\n"        
         top_mmr = player['mmr']
